@@ -28,10 +28,10 @@ backend/*.log
 # ========================
 # IDE / OS
 # ========================
-.vscode/
 .idea/
 *.iml
 .DS_Store
 Thumbs.db
 *.swp
 *.swo
+config.bat
